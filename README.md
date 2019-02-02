@@ -1,8 +1,13 @@
 loveTimeline
 ============
 
+
+![Demo](GIF.gif)
+
+
 # 记录你的爱情时光轴
-[Demo](http://www.sivan.tech/LoveTimeLine/)
+[Demo Website](http://www.sivan.tech/LoveTimeLine/)
+
 
 ## 使用说明
 * 1. clone 到本地
